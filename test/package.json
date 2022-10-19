@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "automation",
+  "main": "GA_Driver_PWA.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Hop",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^106.0.0",
+
+    "selenium-webdriver": "^4.4.0"
+  }
+}
