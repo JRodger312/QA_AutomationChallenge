@@ -13,5 +13,7 @@ you can search for "todo" to see the areas that need to be filled out.
 - change to 'test' folder
 - 'npm install'
 
+Entry point into the script is test/Vernier/src/VernierDriver.js (can be run via 'node VernierDriver.js')
+
 
 
